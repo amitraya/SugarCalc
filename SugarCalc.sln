@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarCalc.Android", "SugarCalc\SugarCalc.Android\SugarCalc.Android.csproj", "{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarCalc", "SugarCalc\SugarCalc\SugarCalc.csproj", "{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D144A0E2-15FA-4AE0-9C08-D24A7FF40CB7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1303DD-038B-4A8D-91C8-CCDD8BDEC3DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F0366B-DD04-403E-99E7-49F68279F5FF}
+	EndGlobalSection
+EndGlobal
