@@ -1,6 +1,6 @@
 Welcome to Xamarin.Forms! Here are some tips to get started building your app.
 
-XAML Hot Reload
+XAML Hot Reload is nice
 ---------------
 
 XAML Hot Reload quickly applies UI changes as you make them to your running app. 
